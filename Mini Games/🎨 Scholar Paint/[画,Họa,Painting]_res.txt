@@ -1,0 +1,48 @@
+["画","Họa","Painting"]
+
+
+["洛神赋图","Lạc Thần Phú Đồ","LuoShenFu Tu"],
+
+["送子天王图","Tống Tử Thiên Vương Đồ","SongZi TianWang Tu"],
+
+["天女献花图","Thiên Nữ Hiến Hoa Đồ","TianNu XianHua Tu"],
+
+["游春图","Du Xuân Đồ","YouChunTu"],
+
+["清明上河图","Thanh Minh Thượng Hà Đồ","QingMing ShangHe Tu"],
+
+["富春山居图","Phú Xuân Sơn Cư Đồ","FuChun ShanJu Tu"],
+
+["韩熙载夜宴图","Hàn Hy Tải Yến Đồ","HanXiZai YeYan Tu"],
+
+["千里江山图","Thiên Lý Giang Sơn Đồ","QianLi JiangShan Tu"],
+
+["汉宫春晓图","Hán Cung Xuân Hiểu Đồ","HangGong ChunXiao Tu"],
+
+["竹西草堂图","Trúc Tây Thảo Đường Đồ","ZhuXi CaoTang Tu"],
+
+["春山清霁图","Xuân Sơn Thanh Tế Đồ","ChunShan QingJi Tu"],
+
+["桃源图","Đào Nguyên Đồ","TaoYuan Tu"],
+
+["莲溪渔隐图","Liên Khê Ngư Ẩn Đồ","LianXi YuYin Tu"],
+
+["春山秀色图","Xuân Sơn Tú Sắc Đồ","ChunShan XiuSe Tu"],
+
+["纺车图","Phưởng Xa Đồ","FangChe Tu"],
+
+["郭熙雪山行旅图","Quách Hy Tuyết Sơn Hành Lữ Đồ","GuoXi XueShanXingLu Tu"],
+
+
+
+
+
+
+
+
+
+
+
+
+
+

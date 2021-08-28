@@ -1,0 +1,29 @@
+1.["高山流水","GaoShanLiuShui","Tri âm tri kỷ"],
+
+2.["广陵散","GuangLingSan","Quảng Lăng Tán"],
+
+3.["沧海一声笑","CangHaiYiShengXiao","Thương hải nhất thanh tiếu"],
+
+4.["春江花月夜","ChunJiangHuaYueYe","Xuân giang hoa nguyệt dạ"],
+
+5.["十面埋伏","ShiMianMaiFu","Thập diện mai phục"],
+
+6.["梁祝","LiangZhu","Lương Chúc"],
+
+7.["二泉映月","ErQuanYingYue","Nhị tuyền ánh nguyệt"],
+
+8.["昭君出寨","ZhaoJunChuSai","Chiêu Quân xuất trại"],
+
+9.["满江红","MangJiangHong","Mạn Giang Hồng"],
+
+10.["孔雀东南飞","KongQueDongNanFei","Khổng Tước Đông Nam Phi"],
+
+11.["渔舟唱晚","YuZhouChangWan","Ngư chu xướng vãn"],
+
+12.["鹧鸪飞","ZheGuFei","Đa đa bay lượn"],
+
+13.["阳春白雪","YangChunBaiXue","Dương xuân bạch tuyết"],
+
+14.["平沙落雁","PingShaLuoYan","Bình sa lạc nhạn"],
+
+15.["秋江夜泊","QiuJiangYeBo","Thu giang dạ bạc"],

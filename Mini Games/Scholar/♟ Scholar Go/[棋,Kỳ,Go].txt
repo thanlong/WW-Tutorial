@@ -1,6 +1,7 @@
 
-["棋谱: 天机星落经","Go Book: TianJi XingLuoJing"],
-["棋谱: 敦煌碁经","Go Book: DunHuang QiJing"],
-["棋谱: 汉图十三势","Go Book: HanTu ShiSanShi"],
-["棋谱: 澜柯谱","Go Book: LanKePu"],
-["棋谱: 对弈十三手","Go Book: DuiYi ShiSanShou"],
+["棋谱: 维世谱","Kỳ Phổ: Duy Thế Phổ"]
+["棋谱: 天机星落经","Kỳ Phổ: Thiên Cơ Tinh Lạc Kinh"],
+["棋谱: 敦煌碁经","Kỳ Phổ: Đôn Hoàng Đính Kinh"],
+["棋谱: 汉图十三势","Kỳ Phổ: Hán Đồ Thập Tam Thế"],
+["棋谱: 澜柯谱","Kỳ Phổ:Lan Kha Phổ"],
+["棋谱: 对弈十三手","Kỳ Phổ: Đối Dịch Thập Tam Thủ"],
